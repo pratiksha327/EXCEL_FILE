@@ -11,6 +11,8 @@ Designed and developed an interactive dashboard in Microsoft Excel to analyze Ho
 #Dashboard:
 -dashboard <a href="https://github.com/pratiksha327/EXCEL_FILE/blob/main/EXCEL_HOSPITAL_EMERGENCY_PROJECT.jpg">Dashboard view</a>
 
+![EXCEL_HOSPITAL_EMERGENCY_PROJECT](https://github.com/user-attachments/assets/db3d6a19-4fe2-4d76-a7d6-66a74bde7af7)
+
 Key Steps & Tools Used:
 Business Requirement Gathering: Collaborated with stakeholders to define dashboard goals and key performance indicators (KPIs).
 Data Understanding: Analyzed the raw ER data structure to align it with business needs.
